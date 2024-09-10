@@ -1,10 +1,10 @@
 # Drag Tac Toe 
 ## Privacy Policy
 
-**Version:** 1.1  
-**Date:** September 8, 2024
+**Version:** 1.2  
+**Date:** September 10, 2024
 
-I, Ihab Shoully, developed the game "Drag Tac Toe" as a paid, offline app. This game is provided for a one-time purchase fee and is intended for use as is.
+I, Ihab Ahmed, developed the game "Drag Tac Toe" as a paid, offline app. This game is provided for a one-time purchase fee and is intended for use as is.
 
 ### Information Collection and Use
 We do not collect, store, or process any personal data. The game operates entirely offline with no internet access or permissions. Your privacy is our priority, and we ensure that no personal information is captured, transmitted, or used in any way.
@@ -20,10 +20,10 @@ The game uses local storage on your device for the following purposes:
 We do not use any third-party services or libraries that might collect or process data.
 
 ### Data Controller and Data Protection Officer (DPO)
-**Data Controller:** Ihab Shoully, the developer of "Drag Tac Toe," is responsible for any personal data, although no personal data is currently collected or processed by this application. For any queries regarding privacy or this policy, you can contact me directly.
+**Data Controller:** Ihab Ahmed, the developer of "Drag Tac Toe," is responsible for any personal data, although no personal data is currently collected or processed by this application. For any queries regarding privacy or this policy, you can contact me directly.
 
 **Contact Information:**
-- **Name:** Ihab Shoully
+- **Name:** Ihab Ahmed
 - **Email:** privacy@appray.ai
 
 **Data Protection Officer (DPO):** As there is no collection of personal data, a formal DPO is not designated. For privacy concerns, please contact the Data Controller.
@@ -95,8 +95,24 @@ We have not recently integrated any new device permissions or SDKs that would af
 ### General Guidance for Parents
 I encourage parents to review the game before allowing their child to use it and to set limits on screen time to protect their eyesight.
 
+### Other Names of the game
+
+The game "Drag Tac Toe" is localized in multiple regions and known by different names in various languages:
+
+* **English**: Drag Tac
+* **Arabic**: تك تاك، اكس اوو، صفرجت
+* **French**: Déplace Tac
+* **German**: Zieh Tac
+* **Hindi**: ड्रैग टो
+* **Italian**: Trascina Tac
+* **Japanese**: ドラッグトー
+* **Spanish**: Arrastra Tac
+* **Swahili**: Buruta Tac
+
+Each localized version follows the same privacy policy outlined here.
+
 ### Changes
 This privacy policy may be updated from time to time. We will review and update this policy with each new version of the app.
 
 ### Contact
-If you have any questions or concerns about this privacy policy, please contact me, Ihab Shoully, via the email: privacy@appray.ai.
+If you have any questions or concerns about this privacy policy, please contact me, Ihab Ahmed, via the email: privacy@appray.ai.
