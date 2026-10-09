@@ -28,4 +28,4 @@ Our App does not address anyone under the age of 13. We do not knowingly collect
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date."
 
 ## Contact Us
-If you have questions or comments about this Privacy Policy, please contact us at support@hercycle.appray.ai.
+If you have questions or comments about this Privacy Policy, please contact us at contact@arukahpharma.com.
